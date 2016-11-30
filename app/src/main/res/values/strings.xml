@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WordTen</string>
+    <string-array name="diff_array">
+        <item>중1</item>
+        <item>중2</item>
+        <item>중3</item>
+        <item>고1</item>
+        <item>고2</item>
+        <item>고3 기본</item>
+        <item>고3 심화</item>
+    </string-array>
+</resources>
